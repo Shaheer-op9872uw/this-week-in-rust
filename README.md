@@ -1,5 +1,5 @@
 This Week in Rust
-=================
+==================
 
 Content for [this-week-in-rust.org](http://this-week-in-rust.org). Made available under CC-BY-SA.
 
